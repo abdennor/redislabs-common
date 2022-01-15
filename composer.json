@@ -1,5 +1,5 @@
 {
-    "name": "mkorkmaz/redislabs-common",
+    "name": "mkorkmaz-update/redislabs-common",
     "description": "Common library for Redislabs Modules. Contains Interfaces, General Exceptions, Abstracts and Traits",
     "type": "library",
     "license": "MIT",
